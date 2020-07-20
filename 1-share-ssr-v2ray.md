@@ -9,7 +9,8 @@
 
 使用方法参考：[使用教程](README.md#使用教程)
 
-
+病毒學家閆麗夢博士出逃美國，近日接受FOX新聞專訪時，驚爆中共病毒早期被死死掩蓋，由於中共與世衛官員的腐敗及隱瞞真相，導致病毒全球擴散。閆麗夢博士歷經死亡威脅，就是為了讓世界了解真相。（視頻來自FOX）
+https://youtu.be/n2E0raFVsrg
 ### 注册站点
 
 > 有的机场刚刚开的，会员人数不多的，网站域名奇葩的，满足这些条件的不建议大家充值，在充值前可以加入机场的官方群或者TG群组
@@ -100,6 +101,8 @@
 [SSR SHARE | 免费SSR](https://t.me/gyjclub)
 
 [MTPROTO公益TG代理发放频道](https://t.me/onessr)
+
+注：如果需要相关工具，请 [点击此处](https://github.com/selierlin/Share-SSR-V2ray/blob/master/tools.md)
 
 注：如果需要相关工具，请 [点击此处](https://github.com/selierlin/Share-SSR-V2ray/blob/master/tools.md)
 
